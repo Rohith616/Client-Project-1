@@ -1,0 +1,108 @@
+Project List
+
+# Time series forecasting
+## Project 1: Research and report on automl-based methods for time series forecasting
+and implementation of functions
+## Priority / Cut-out ease
+- Priority: High
+- Easy to cut out: High
+- Difficulty: Medium
+### Purpose
+- I have an automated time series forecasting analysis tool that I am currently developing.
+I am considering using automl-based methods as part of this function.
+- In this project, we will perform the following two tasks
+- 1) Survey of methods
+- Investigate automl-based methods and libraries for time series forecasting, and summarize the outline of the methods and libraries in a document.
+and summarize the outline of the methods and libraries in a document.
+- 2) Implementation of the model
+- Learn an automl model for the specified input data, and create a function that returns the model, forecast data for verification, and future forecast data.
+Implement a function that returns the model, validation prediction data, and future prediction data.
+### Task Details: 1) Researching methods
+#### To do.
+- [ ] List up automl-based methods for time series forecasting. When listing them, summarize what they are in about one line.
+When listing them, summarize what they are in about one line.
+- [ ] Pick up 5 of the listed ones that look good.
+- [ ] For each of them, write a rough overview of the library at intervals of about one a day, with at least the following items.
+For each of them, write a rough summary of the library at least once a day. The summary will be published on the company's blog called [Hakky Handbook](https://book.st-hakky.com/).
+The summary will be published on our blog [Hakky Handbook](), so please prepare for that as well.
+```` Title
+# Title
+# Method/library overview
+# How to use the method/library
+# Reference material
+```
+#### Approximate duration
+- 2 weeks
+### Task Details: 2) Implement the model
+#### Things to do.
+- [ ] Implement a function that learns automl and outputs prediction results for a given input.
+- [ ] The function should be a single function.
+- [ ] Google Colab is assumed to be the working environment. This includes the installation of libraries, etc.
+[ ] "Task Details: 1) Methodology
+- [ ] Implement the function using the library studied in "Task Details: 1) Methodology Study".
+#### Specifications
+- Input data (to be provided at the time of work)
+- As Output, return the model, prediction data for validation, and future prediction data.
+#### Estimated duration
+- 2 weeks
+## Project 2: Automatic feature generation for time series forecasting and Boosting models
+Project 2: Automatic feature generation for time series forecasting and development of forecasting models using Boosting models
+## Priority / Cut-out ease
+- Priority: High
+- Easy to cut out: Low
+- Difficulty: High
+### Objective.
+- I have an automated time series forecasting analysis tool that I am currently developing.
+I am considering using automl-based methods as part of this function.
+- In this project, we will perform the following two tasks
+- 1) Survey of methods
+- Investigate automl-based methods and libraries for time series forecasting, and summarize the outline of the methods and libraries in a document.
+and summarize the outline of the methods and libraries in a document.
+- 2) Implementation of the model
+- Learn an automl model for the specified input data, and create a function that returns the model, forecast data for verification, and future forecast data.
+Implement a function that returns the model, validation prediction data, and future prediction data.
+### Task Details
+#### To do.
+- [ ] Develop a process to automatically generate features and learn Boosting models for specified inputs.
+Development
+#### Estimated duration
+- 2-4 weeks.
+# Text-based
+## Project 1: Investigation and validation of methods for document summarization systems.
+## Priority / Cut-out ease
+- Priority: High
+- Ease of extraction: High
+- Difficulty: Medium
+## Objective.
+- We have an automated analysis tool that we are currently developing, and we are considering adding a document summarization feature as part of this feature.
+We are considering to add document summarization function as a part of this tool.
+- In this project, we will perform the following two tasks
+- 1) Investigation of methods
+- To investigate methods and libraries for document summarization, and to summarize the outline of the methods and libraries in a document.
+2) Implementation of the method
+- 2) Implementation of the method
+- Implement a function that returns the summarized data when the text data to be summarized is input.
+- As for the research of methods, some of them are still being researched, and we would like to share them as needed.
+### Task Details: 1) Research methods
+#### Things to do
+- [ ] Make a list of methods for document summarization. When you list them, describe what they are in about one line.
+summarize what they are.
+- [ ] Pick up five of the listed ones that seem to be good.
+- [ ] For each of them, write a rough overview of the library at intervals of about one a day, with at least the following items.
+For each of them, write a rough summary of the library at least once a day. The summary will be published on the company's blog called [Hakky Handbook](https://book.st-hakky.com/).
+The summary will be published on our blog [Hakky Handbook](), so please prepare for that as well.
+```` Title
+# Title
+# Method/library overview
+# How to use the method/library
+# Reference material
+```
+#### Approximate duration
+- 2 weeks
+### Task Details: (2) Implementation of the method
+#### Things to do.
+- [ ] Create a function that can summarize text data when it is input.
+- [ ] The function should be a single function.
+- [ ] Google Colab is assumed to be the working environment. This includes the installation of libraries, etc.
+[ ] "Task Details: 1) Methodology
+- [ ] Implement using the library that you researched in "Task Details: 1) Methodology Research".
